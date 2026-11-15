@@ -34,10 +34,10 @@ suki@veyino:~$ veyino-cluster --whoami
 
 <div align="center">
 
-<a href="https://github.com/ysnsk111/nexus-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ysnsk111&repo=nexus-api&theme=midnight-purple&hide_border=true&bg_color=0b0b1f&title_color=a59cff&icon_color=7c6cff&text_color=c9c6ef" /></a>
-<a href="https://github.com/ysnsk111/music-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ysnsk111&repo=music-server&theme=midnight-purple&hide_border=true&bg_color=0b0b1f&title_color=a59cff&icon_color=7c6cff&text_color=c9c6ef" /></a>
-<a href="https://github.com/ysnsk111/Aegis-wall"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ysnsk111&repo=Aegis-wall&theme=midnight-purple&hide_border=true&bg_color=0b0b1f&title_color=a59cff&icon_color=7c6cff&text_color=c9c6ef" /></a>
-<a href="https://github.com/ysnsk111/eidolon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ysnsk111&repo=eidolon&theme=midnight-purple&hide_border=true&bg_color=0b0b1f&title_color=a59cff&icon_color=7c6cff&text_color=c9c6ef" /></a>
+<a href="https://github.com/ysnsk111/nexus-api"><img width="49%" src="https://socialify.git.ci/ysnsk111/nexus-api/image?theme=Dark&font=Jost&language=1&name=1&owner=1&pattern=Circuit+Board&description=1&stargazers=1" /></a>
+<a href="https://github.com/ysnsk111/music-server"><img width="49%" src="https://socialify.git.ci/ysnsk111/music-server/image?theme=Dark&font=Jost&language=1&name=1&owner=1&pattern=Circuit+Board&description=1&stargazers=1" /></a>
+<a href="https://github.com/ysnsk111/Aegis-wall"><img width="49%" src="https://socialify.git.ci/ysnsk111/Aegis-wall/image?theme=Dark&font=Jost&language=1&name=1&owner=1&pattern=Circuit+Board&description=1&stargazers=1" /></a>
+<a href="https://github.com/ysnsk111/eidolon"><img width="49%" src="https://socialify.git.ci/ysnsk111/eidolon/image?theme=Dark&font=Jost&language=1&name=1&owner=1&pattern=Circuit+Board&description=1&stargazers=1" /></a>
 
 </div>
 
@@ -60,12 +60,10 @@ suki@veyino:~$ veyino-cluster --whoami
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ysnsk111&show_icons=true&hide_border=true&bg_color=0b0b1f&title_color=a59cff&icon_color=7c6cff&text_color=c9c6ef&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysnsk111&layout=compact&hide_border=true&bg_color=0b0b1f&title_color=a59cff&text_color=c9c6ef" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysnsk111&theme=dracula" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysnsk111&theme=dracula" />
 
 <img height="165" src="https://streak-stats.demolab.com?user=ysnsk111&hide_border=true&background=0b0b1f&ring=7c6cff&fire=a59cff&currStreakLabel=a59cff&sideLabels=c9c6ef&currStreakNum=e8e6ff&sideNums=e8e6ff&dates=8f8ab8&stroke=3b2a8f" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ysnsk111&bg_color=0b0b1f&color=c9c6ef&line=7c6cff&point=a59cff&area=true&area_color=3b2a8f&hide_border=true" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ysnsk111/ysnsk111/output/snake-dark.svg" />
